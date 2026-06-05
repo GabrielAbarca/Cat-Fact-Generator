@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Technical Interview: Cat Fact Generator
 
 ## 🚀 Key Features
@@ -40,7 +39,3 @@ npm run build
 
 
 Gabriel Zelaya.
-=======
-# Cat-Fact-Generator
-This is a mock project simulating a real technical interview where multiple skills are exposed and put in practice!
->>>>>>> d0faee04db6a5b8658e952ad1fffeecf0d6a00ab
