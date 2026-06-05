@@ -2,7 +2,7 @@
 
 ## 🚀 Key Features
 
-- **Asynchronous Fact Retrieval**: Fetches a random cat fact from the `catfact.ninja` API along with a Cat image displaying the first 3 words from the fact.
+- **Asynchronous Fact Fetch**: Fetches a random cat fact from the `catfact.ninja` API along with a Cat image displaying the first 3 words from the fact.
 - **Dynamic Image Overlay Generation**
 - **Custom Hooks Architecture**
 - **Responsive Design**
